@@ -1,0 +1,36 @@
+CRITICAL - 2024-12-25 10:40:25 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 10:41:38 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 12:27:06 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 12:30:44 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:27:35 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:34:20 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:34:33 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:35:13 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:37:10 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 ROOTPATH\spark(71): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:37:24 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 ROOTPATH\spark(71): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:39:38 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-12-25 18:42:43 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 FCPATH\index.php(43): CodeIgniter\CodeIgniter->initialize()
