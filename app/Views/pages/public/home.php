@@ -48,7 +48,7 @@
     <?php endforeach; ?>
 </div>
 <?php if(isset($posts) && count($posts) <= 0): ?>
-    <center><small class="text-muted"><i>No post has been published yet.</i></small></center>
+    <center><small class="text-muted"><i>No post has been published yet..</i></small></center>
 <?php endif; ?>
 <div class="bg-light pt-4 px-3 my-3">
     <?= $pager->makeLinks($page, $perPage, $total, 'custom_view') ?>
